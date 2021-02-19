@@ -6,7 +6,7 @@
 /*   By: ltrivinh <ltrivinh@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/02/10 15:26:55 by ltrivinh          #+#    #+#             */
-/*   Updated: 2021/02/16 17:29:29 by ltrivinh         ###   ########.fr       */
+/*   Updated: 2021/02/19 17:52:19 by ltrivinh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 # include <string.h>
 # include <stdlib.h>
 # include <unistd.h>
+# include <limits.h>
 
 typedef struct		s_list
 {
